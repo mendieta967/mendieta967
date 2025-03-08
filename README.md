@@ -31,7 +31,6 @@ I love building innovative projects, exploring new technologies, and continuousl
 
 ## 💬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mendieta967)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](olorteguopedro@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-olortegui-mendieta/)  
+
 
