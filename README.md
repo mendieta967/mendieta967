@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Olortegui Mendieta  
 
-![Pedro Olortegui Mendieta](https://your-image-url.com)  
+![Pedro Olortegui Mendieta](https://drive.google.com/file/d/1t03Vvzb7wGLfuZhgUZqnnyrTKIIXHGYj/view)  
 
 ## 🌍 Full Stack Web Developer  
 I'm a passionate **Full Stack Developer** with expertise in **React** and **ASP.NET**.  
