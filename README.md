@@ -33,4 +33,5 @@ I love building innovative projects, exploring new technologies, and continuousl
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://portafolio-pedroolortegui.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-olortegui-mendieta/)  
 
-
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mendieta967&theme=dracula)](https://git.io/streak-stats)
